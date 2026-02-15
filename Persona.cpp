@@ -23,3 +23,4 @@ protected :
 	void actualizar();
 	void borrar();
 };
+
