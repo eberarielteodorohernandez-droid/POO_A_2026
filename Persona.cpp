@@ -8,6 +8,7 @@ protected :
 	string nombres,apellidos,direccion,fecha_nacimiento;
 	int telefono;
 //Constructores
+protected : 
 	persona(){
 	}
 		persona(string nom, string ape, string dir, int tel, string fn){
